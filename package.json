@@ -14,7 +14,7 @@
     "path": "^0.12.7",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
-    "react-scripts": "3.2.0"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "cp -a ./api/. ./public/api && react-scripts start",
@@ -43,7 +43,7 @@
     "concurrently": "^5.0.0",
     "cross-env": "^6.0.3",
     "electron": "^7.0.0",
-    "electron-builder": "^22.1.0",
+    "electron-builder": "^22.14.13",
     "wait-on": "^3.3.0"
   }
 }
